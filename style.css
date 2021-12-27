@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(77, 197, 113, 0.5);
+    color:navy;
+}
+
+.heading {
+    width:80%;
+    font-size: 22px;
+}
+
+.noob, #object , #accuracy {
+color:green;
+}
+
+#camera {
+    border: 2px solid black;
+width: 350px;
+height: 300px;
+}
